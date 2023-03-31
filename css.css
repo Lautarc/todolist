@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(117, 117, 230);
+}
+
+h1{
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    background-color: white;
+    width: 20%;
+    
+    border-radius: 13px;
+    box-shadow: 3px 3px 2px 2px rgb(56, 55, 55);    
+}
+
+.cajalista{
+    background-color: white;
+    width: 40%;
+    height: 370px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px 3px rgb(56, 55, 55);    
+}
+
+.añadir{
+    width: 70%;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 3px 3px 2px 2px rgb(56, 55, 55);  
+}
+
+.botonañadir{
+   margin-top: 22px;
+   margin-left: 20px;
+    width: 8%;
+    height: 35px;
+    box-shadow: 3px 3px 2px 2px rgb(56, 55, 55);  
+    border-radius: 5px;
+    
+}
+
+.tareass{
+    width: 78%;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 3px 3px 2px 2px rgb(56, 55, 55);  
+    float: left;
+    
+}
+
+.botontachar{
+    margin-top: 20px;
+    margin-left: 20px;
+     width: 8%;
+     height: 35px;
+     box-shadow: 3px 3px 2px 2px rgb(56, 55, 55);  
+     border-radius: 5px;
+
+ }
+.tareas{
+    background-color: white;
+}
